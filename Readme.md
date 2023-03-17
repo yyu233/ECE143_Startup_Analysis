@@ -49,7 +49,7 @@ Due to the limited time of presentation, not all attribute analysis is included 
 
 We count the number of missing values for each attribute. If the number of missing values is greater than 30% of the total number of values for that attribute, we drop this attribute. If the number of missing values is fewer than 30%, we replace the missing values with the mode for categorical atrribute and mean for numerical atrribute.
 
-We use boxplot to visualize data skew and calculate the skew magnitude. After identifying which attribute data has high data skew, we utilize the quartile info for handling outliers. We set the lower and up bound of valid data by using Inter Quartile Range between Q3 and Q1 as a filter.
+We use boxplot to visualize data skew and calculate the skew magnitude. After identifying which attribute data has high data skew, we utilize the quartile info for handling outliers. We set the lower and upper bound of valid data by using Inter Quartile Range between Q3 and Q1 as a filter.
 
 ## Data Analysis & Visualization
 
