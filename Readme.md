@@ -1,4 +1,4 @@
-# ECE 142 Final Project (Team #11)
+# ECE 143 Final Project (Team #11)
 
 ## Problem Statement
 
